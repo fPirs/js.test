@@ -1,0 +1,15 @@
+## Topic?
+After a lot of thinking we realized that it would be great to work with something known by most of us, and the answer was clear: __BEER__.
+Luckily, we _do_ know a public API about this topic, called [PUNK API](https://punkapi.com). The website has the necessary documentation to work with it.
+## App needs
+Using the data from the provided API, we need the Web app to:
+* Display a list of 10 beers with their {
+name:
+date:
+image:
+description:
+}
+* Implement a delete button to delete the beer on your list
+* BONUS Add a search bar to search for a beer based on it's title
+
+https://api.punkapi.com/v2/beers
